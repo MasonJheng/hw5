@@ -291,6 +291,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = hw5/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "藝人";
+				INFOPLIST_KEY_CFBundleExecutable = hw5;
+				INFOPLIST_KEY_CFBundleName = hw5;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +322,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = hw5/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "藝人";
+				INFOPLIST_KEY_CFBundleExecutable = hw5;
+				INFOPLIST_KEY_CFBundleName = hw5;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
