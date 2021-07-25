@@ -244,7 +244,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kJv-xq-vae" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6132" y="1190"/>
+            <point key="canvasLocation" x="5870" y="471"/>
         </scene>
         <!--Table View Controller-->
         <scene sceneID="r5b-Df-TkA">
@@ -363,7 +363,7 @@
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">夜曲
+                                <string key="text">夜曲
 
 一群嗜血的螞蟻 被腐肉所吸引 我面無表情 看孤獨的風景
 失去妳 愛恨開始分明 失去妳 還有什麼事好關心
@@ -380,7 +380,7 @@
 一群嗜血的螞蟻 被腐肉所吸引 我面無表情 看孤獨的風景
 失去妳 愛恨開始分明 失去妳 還有什麼事好關心
 當鴿子不再象徵和平 我終於被提醒 廣場上餵食的是禿鷹
-我用漂亮的押韻 形容被掠奪一空的愛情</mutableString>
+我用漂亮的押韻 形容被掠奪一空的愛情</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -407,7 +407,7 @@
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">晴天
+                                <string key="text">晴天
 
 故事的小黃花
 從出生那年就飄著
@@ -442,7 +442,7 @@ So la si si si si la si la so
 我好想再淋一遍
 沒想到失去的勇氣我還留著
 好想再問一遍
-妳會等待還是離開</mutableString>
+妳會等待還是離開</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -469,7 +469,7 @@ So la si si si si la si la so
                                 <rect key="frame" x="53" y="97" width="308" height="245"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">雙節棍
+                                <string key="text">雙節棍
 
 一巖燒店的煙味瀰漫 隔壁是國術館
 店裡面的媽媽桑 茶道 有三段
@@ -487,7 +487,7 @@ So la si si si si la si la so
 一句惹毛我的人有危險 一再重演
 一根我不抽的菸 一放好多年 它一直在身邊
 幹什麼(客) 幹什麼(客) 我打開任督二脈
-幹什麼(客) 幹什麼(客) 東亞病夫的招牌</mutableString>
+幹什麼(客) 幹什麼(客) 東亞病夫的招牌</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -514,7 +514,7 @@ So la si si si si la si la so
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">早安，晨之美！
+                                <string key="text">早安，晨之美！
 
 有好多好多早餐在這裡
 在我們最熟悉的早餐店裡
@@ -542,7 +542,7 @@ So la si si si si la si la so
 對啊對啊對啊對啊
 We share the morning
 We share the milk tea
-我一直在這裡陪你一起 Oh</mutableString>
+我一直在這裡陪你一起 Oh</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -569,7 +569,7 @@ We share the milk tea
                                 <rect key="frame" x="53" y="97" width="308" height="901.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">鄧紫棋
+                                <string key="text">鄧紫棋
 
 泡沫
 
@@ -621,7 +621,7 @@ We share the milk tea
 在雨下的泡沫　一觸就破
 當初熾熱的心　早已沉沒
 說什麼你愛我　如果騙我
-我寧願你沉默</mutableString>
+我寧願你沉默</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -648,7 +648,7 @@ We share the milk tea
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">G.E.M.鄧紫棋
+                                <string key="text">G.E.M.鄧紫棋
 
 差不多姑娘
 
@@ -688,7 +688,7 @@ Miss Similar
 靠差不多的方法 買了差不多的包
 
 都逞著差不多的強 所以講話差不多的嗆
-差不多思想 都有著差不多狹窄審美觀</mutableString>
+差不多思想 都有著差不多狹窄審美觀</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -715,7 +715,7 @@ Miss Similar
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">小幸運 (電影《我的少女時代》主題曲)
+                                <string key="text">小幸運 (電影《我的少女時代》主題曲)
 田馥甄
 我聽見雨滴落在青青草地
 我聽見遠方下課鐘聲響起
@@ -745,7 +745,7 @@ Miss Similar
 來不及感謝是你給我勇氣
 讓我能做回我自己
 也許當時忙著微笑和哭泣
-忙著追逐天空中的流星…</mutableString>
+忙著追逐天空中的流星…</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -772,7 +772,7 @@ Miss Similar
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">G.E.M.鄧紫棋
+                                <string key="text">G.E.M.鄧紫棋
 
 句號
 
@@ -808,7 +808,7 @@ Miss Similar
 可惜我們終於來到 一個句號
 窗外不願飛的蜂鳥 也在哀悼
 城市再也不會聽到 我們爭吵
-你會不會少了一點煩惱</mutableString>
+你會不會少了一點煩惱</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -836,18 +836,12 @@ Miss Similar
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <attributedString key="attributedText">
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
                                     <fragment>
-                                        <string key="content">青花瓷
+                                        <string key="content"> 青花瓷
 </string>
                                         <attributes>
                                             <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
+                                            <font key="NSFont" metaFont="system" size="14"/>
                                         </attributes>
                                     </fragment>
                                     <fragment>
@@ -856,800 +850,49 @@ Cg
 </string>
                                         <attributes>
                                             <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
+                                            <font key="NSFont" metaFont="system" size="14"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="素胚勾勒出青花">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="筆鋒濃轉淡">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
                                     <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
+                                        <string key="content">素胚勾勒出青花 筆鋒濃轉淡
+瓶身描繪的牡丹 一如妳初妝
+冉冉檀香透過窗心事我了然
+宣紙上走筆至此擱一半
+釉色渲染仕女圖 韻味被私藏
+而妳嫣然的一笑如含苞待放
+妳的美一縷飄散 去到我去不了的地方
+天青色等煙雨 而我在等妳
+炊煙裊裊昇起 隔江千萬里
+在瓶底書漢隸仿前朝的飄逸
+就當我為遇見妳伏筆
+天青色等煙雨 而我在等妳
+月色被打撈起 暈開了結局
+如傳世的青花瓷自顧自美麗 妳眼帶笑意
+色白花青的錦鯉 躍然於碗底
+臨摹宋體落款時 卻惦記著妳
+妳隱藏在窯燒裡千年的秘密
+極細膩猶如繡花針落地
+簾外芭蕉惹驟雨 門環惹銅綠
+而我路過那江南小鎮惹了妳
+在潑墨山水畫裡 妳從墨色深處被隱去
+天青色等煙雨 而我在等妳
+炊煙裊裊昇起 隔江千萬里
+在瓶底書漢隸仿前朝的飄逸
+就當我為遇見妳伏筆
+天青色等煙雨 而我在等妳
+月色被打撈起 暈開了結局
+如傳世的青花瓷自顧自美麗 妳眼帶笑意
+天青色等煙雨 而我在等妳
+炊煙裊裊昇起 隔江千萬里
+在瓶底書漢隸仿前朝的飄逸
+就當我為遇見妳伏筆
+天青色等煙雨 而我在等妳
+月色被打撈起 暈開了結局
+如傳世的青花瓷自顧自美麗 妳眼帶笑意</string>
                                         <attributes>
                                             <color key="NSColor" systemColor="labelColor"/>
                                             <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="瓶身描繪的牡丹">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="一如妳初妝">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="冉冉檀香透過窗心事我了然">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="宣紙上走筆至此擱一半">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="釉色渲染仕女圖">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="韻味被私藏">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而妳嫣然的一笑如含苞待放">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="妳的美一縷飄散">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="去到我去不了的地方">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="天青色等煙雨">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而我在等妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="炊煙裊裊昇起">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="隔江千萬里">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="在瓶底書漢隸仿前朝的飄逸">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="就當我為遇見妳伏筆">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="天青色等煙雨">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而我在等妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="月色被打撈起">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="暈開了結局">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="如傳世的青花瓷自顧自美麗">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="妳眼帶笑意">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="色白花青的錦鯉">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="躍然於碗底">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="臨摹宋體落款時">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="卻惦記著妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="妳隱藏在窯燒裡千年的秘密">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="極細膩猶如繡花針落地">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="簾外芭蕉惹驟雨">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="門環惹銅綠">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而我路過那江南小鎮惹了妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="在潑墨山水畫裡">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="妳從墨色深處被隱去">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="天青色等煙雨">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而我在等妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="炊煙裊裊昇起">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="隔江千萬里">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="在瓶底書漢隸仿前朝的飄逸">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="就當我為遇見妳伏筆">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="天青色等煙雨">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而我在等妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="月色被打撈起">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="暈開了結局">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="如傳世的青花瓷自顧自美麗">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="妳眼帶笑意">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="天青色等煙雨">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而我在等妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="炊煙裊裊昇起">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="隔江千萬里">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="在瓶底書漢隸仿前朝的飄逸">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="就當我為遇見妳伏筆">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="天青色等煙雨">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="而我在等妳">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="月色被打撈起">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="暈開了結局">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment>
-                                        <string key="content" base64-UTF8="YES">
-Cg
-</string>
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="如傳世的青花瓷自顧自美麗">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content=" ">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" metaFont="system" size="14"/>
-                                        </attributes>
-                                    </fragment>
-                                    <fragment content="妳眼帶笑意">
-                                        <attributes>
-                                            <color key="NSColor" systemColor="labelColor"/>
-                                            <font key="NSFont" size="14" name=".PingFangTC-Regular"/>
                                         </attributes>
                                     </fragment>
                                 </attributedString>
@@ -1672,6 +915,7 @@ Cg
                     <toolbarItems/>
                     <navigationItem key="navigationItem" title="藝人" id="hW3-jv-6Ys"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="0ND-fN-oLk">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
@@ -1704,7 +948,7 @@ Cg
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7hA-oN-Zyh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5453.6231884057979" y="521.65178571428567"/>
+            <point key="canvasLocation" x="5151" y="472"/>
         </scene>
         <!--Table View Controller-->
         <scene sceneID="H4i-7r-mhp">
@@ -1872,7 +1116,7 @@ Cg
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">聽見了嗎?
+                                <string key="text">聽見了嗎?
 
 作詞：盧廣仲
 作曲：盧廣仲
@@ -1903,7 +1147,7 @@ Cg
 聽見了嗎　我擁有的快樂　悲傷
 不用回答　給我一個微笑
 
-好嗎</mutableString>
+好嗎</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2021,7 +1265,7 @@ Cg
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ose-uO-U7h" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6981" y="1204"/>
+            <point key="canvasLocation" x="6854" y="1104"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="oY4-uV-5Zr">
@@ -2035,7 +1279,7 @@ Cg
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">PLAY我呸
+                                <string key="text">PLAY我呸
 
 
 半夜一點的無邪浪蕩睡衣姐妹
@@ -2073,7 +1317,7 @@ Cg
 我的世界 變得奇妙更難以言喻
 還以為 是從天而降的夢境
 直到確定 手的溫度來自你心裡
-這一刻 我終於勇敢說愛你</mutableString>
+這一刻 我終於勇敢說愛你</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2100,7 +1344,7 @@ Cg
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">倒帶
+                                <string key="text">倒帶
 
 我受夠了等待　你所謂的安排　說的未來到底多久才來
 總是要來不及　才知道我可愛　我想依賴而你卻都不在
@@ -2121,7 +1365,7 @@ Cg
 從我臉上的蒼白　看到記憶慢下來
 過去甜蜜在倒帶　只是感覺已經不在
 而我對你的期待　被你一次次摔壞
-已經碎成太多塊　要怎麼拼湊跟重來</mutableString>
+已經碎成太多塊　要怎麼拼湊跟重來</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2148,7 +1392,7 @@ Cg
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">日不落
+                                <string key="text">日不落
 
 天空的霧來的漫不經心 河水像油畫一樣安靜
 和平鴿慵懶步伐押著韻 心偷偷的 放晴
@@ -2166,7 +1410,7 @@ Cg
 不落的想念 飛在你身邊 我的愛未眠
 祈禱你像英勇的禁衛軍 動也不動的守護愛情
 你在回憶裡留下的腳印 是我愛的 風景
-我要送你日不落的想念 寄出代表愛的 明信片…</mutableString>
+我要送你日不落的想念 寄出代表愛的 明信片…</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2193,7 +1437,7 @@ Cg
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">看我七十二變
+                                <string key="text">看我七十二變
 我受夠了等待　你所謂的安排看我72變
 
 夢裡面　空氣開始冒煙
@@ -2221,7 +1465,7 @@ RAP：
 再見面　要你們傻了眼
 無所謂正面側面都是完美弧線
 再見醜小鴨再見　自卑留給昨天
-女大要十八變看我七十二變</mutableString>
+女大要十八變看我七十二變</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2248,7 +1492,7 @@ RAP：
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">1100種生活
+                                <string key="text">1100種生活
 
 作詞：鍾成虎
 作曲：盧廣仲
@@ -2283,7 +1527,7 @@ RAP：
 當我背對星空
 不斷摸索
 愛情漸漸萎縮 我猜不透
-無邊的宇宙 哪裡有我想要的生活</mutableString>
+無邊的宇宙 哪裡有我想要的生活</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2520,7 +1764,7 @@ RAP：
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">光年之外
+                                <string key="text">光年之外
 
 感受停在我髮端的指尖
 如何瞬間 凍結時間
@@ -2560,7 +1804,7 @@ RAP：
 脈搏心跳 沒有你 根本不重要
 相遇亂世以外 危難中相愛
 相遇亂世以外 危難中相愛
-我沒想到</mutableString>
+我沒想到</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2587,7 +1831,7 @@ RAP：
                                 <rect key="frame" x="53" y="97" width="308" height="901.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">
+                                <string key="text">
 你就不要想起我我
 都寂寞多久了還是沒好
 感覺全世界都在竊竊嘲笑
@@ -2613,7 +1857,7 @@ RAP：
 明明你也還愛我 沒理由愛不到結果
 只要你敢不懦弱 憑什麼我們要錯過
 夜長夢會多 你就不要想起我
-我等夜 監聽你說多愛我</mutableString>
+我等夜 監聽你說多愛我</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2640,7 +1884,7 @@ RAP：
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">魔鬼中的天使
+                                <string key="text">魔鬼中的天使
 把太细的神经割掉
 会不会比较睡得着
 我的心有座灰色的监牢
@@ -2680,7 +1924,7 @@ RAP：
 你是魔鬼中的天使
 让恨变成太俗气的事
 从眼里流下谢谢两个字
-尽管叫我疯子 不准叫我傻子</mutableString>
+尽管叫我疯子 不准叫我傻子</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2864,7 +2108,7 @@ RAP：
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">王妃
+                                <string key="text">王妃
 蕭敬騰
 搖晃的紅酒杯 嘴唇像染著鮮血
 那不尋常的美 難赦免的罪
@@ -2884,7 +2128,7 @@ RAP：
 靠近我一點點 是不一樣的世界
 安睡在我的肩 我用生命為你加冕
 夜太美 儘管再危險 總有人黑著眼眶熬著夜
-愛太美 儘管再危險 願賠上了一切超支千年的淚</mutableString>
+愛太美 儘管再危險 願賠上了一切超支千年的淚</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -2911,7 +2155,7 @@ RAP：
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">讓我為你唱情歌
+                                <string key="text">讓我為你唱情歌
 蕭敬騰
 印象中你帽子遮臉
 在教室裡面 不發一語過每一天
@@ -2933,7 +2177,7 @@ RAP：
 這次就 讓我為你唱情歌
 讓我對你說愛你
 請你相信我的真心
-別再害怕 天塌了我會扛下</mutableString>
+別再害怕 天塌了我會扛下</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -3013,7 +2257,7 @@ RAP：
                                 <rect key="frame" x="53" y="97" width="308" height="728"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <mutableString key="text">蕭敬騰
+                                <string key="text">蕭敬騰
 
 疼愛
 
@@ -3036,7 +2280,7 @@ RAP：
 如果說的太少　愛的太多　有誰能夠懂
 
 把疼愛都給你　把疼痛都給我　最痛是當時微笑送你走
-更多更詳盡歌詞</mutableString>
+更多更詳盡歌詞</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -3053,7 +2297,7 @@ RAP：
         </scene>
     </scenes>
     <resources>
-        <image name="square.and.arrow.up" catalog="system" width="115" height="128"/>
+        <image name="square.and.arrow.up" catalog="system" width="32" height="32"/>
         <image name="square.and.arrow.up.fill" catalog="system" width="115" height="128"/>
         <image name="周杰倫" width="390" height="552"/>
         <image name="田馥甄" width="358" height="456"/>
